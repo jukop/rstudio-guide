@@ -1,0 +1,36 @@
+---
+title: "A short guide to RStudio"
+author: "Juho Kopra"
+date: "9 2 2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What is this guide?
+
+This guide attempts to give a short guide (3-5 pages) to the basic use of RStudio. The idea is that students can self-learn the basic user interface and most commonly needed knowledge to independently use RStudio on a first statistics courses. This material is free to use and edit.
+
+## User interface
+
+## Installing and updating RStudio
+
+## Opening and closing RStudio
+
+## Tuning RStudio settings
+
+## Installing, updating and loading R packages
+
+## Creating an R script and running code
+
+## Saving an R script
+
+## RStudio projects
+
+## Quick commands
+CTRL+R run line or selection
+CTRL+SHIFT+C comment/comment out
+CTRL+C copy
+CTRL+V paste
