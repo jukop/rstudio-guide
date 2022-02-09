@@ -23,7 +23,11 @@ This guide attempts to give a short guide (3-5 pages) to the basic use of RStudi
 
 ## Installing, updating and loading R packages
 
+<<<<<<< HEAD
 ## Creating an R script and running code
+=======
+## Creating and R script and running code
+>>>>>>> ad45d64b33848ada0469654bc404113d0bfd6742
 
 ## Saving an R script
 
